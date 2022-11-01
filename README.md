@@ -4,7 +4,8 @@
 <h1 align="center">Hi 👋, I'm Nuyun Pabasara</h1>
 <h3 align="center">Back-End Developper & Software Engineer</h3>
 
-<img align="right" alt="Coding" width="400" src="https://process.filestackapi.com/cache=expiry:max/resize=width:1050/efbSR18hT5uRKuo0zoMA">
+<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/hasibul-hasan-shuvo/hasibul-hasan-shuvo/main/images/coding-boy.gif">
+<!-- <img align="right" alt="Coding" width="400" src="https://process.filestackapi.com/cache=expiry:max/resize=width:1050/efbSR18hT5uRKuo0zoMA"> -->
 
 
 - 🌱 I’m currently learning **Flutter, Spring Boot, Python, Docker**
