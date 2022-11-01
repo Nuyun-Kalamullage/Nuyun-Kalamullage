@@ -1,6 +1,5 @@
 
-
-[![MasterHead](https://www.digitalsolutionservices.com/img/services/website1.gif)](https://github.com/Nuyun-Kalamullage) 
+[![MasterHead](https://media.giphy.com/media/WoWo0qS70jNmOXTkks/giphy.gif)](https://github.com/Nuyun-Kalamullage) 
 <h1 align="center">Hi 👋, I'm Nuyun Pabasara</h1>
 <h3 align="center">Back-End Developper & Software Engineer</h3>
 
