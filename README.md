@@ -2,7 +2,7 @@
 <!-- [![MasterHead](https://github.com/Nuyun-Kalamullage/Nuyun-Kalamullage/blob/main/HeadCard.gif)](https://github.com/Nuyun-Kalamullage) -->
 <a href="https://github.com/Nuyun-Kalamullage"><picture>
   <source media="(prefers-color-scheme: light)" srcset="https://github.com/Nuyun-Kalamullage/Nuyun-Kalamullage/blob/main/HeadCard.gif">
-  <img alt="" src="https://github.com/Nuyun-Kalamullage/Nuyun-Kalamullage/blob/main/HeadBanner%20Dark.gif">
+  <img alt="" src="https://github.com/Nuyun-Kalamullage/Nuyun-Kalamullage/blob/main/HeadCardDark.gif">
 </picture></a>
 
 <h1 align="center">Hi 👋, I'm Nuyun Pabasara</h1>
